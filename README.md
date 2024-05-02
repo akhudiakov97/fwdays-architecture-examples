@@ -1,1 +1,0 @@
-# fwdays-architecture-examples
