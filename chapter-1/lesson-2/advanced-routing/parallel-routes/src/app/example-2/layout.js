@@ -1,5 +1,5 @@
 const useLogin = () => {
-  return "admin";
+  return "user";
 };
 
 export default function Example2Layout({ children, route1, route2 }) {
